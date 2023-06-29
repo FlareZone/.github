@@ -3,16 +3,27 @@
 Flare is dedicated to providing a platform for users to browse, share, and validate intriguing stories, rumors, and trends. Experiences enhanced by ZK and AI.
 
 - [Live Preview](https://flare-dapp.io)
-- [api server](https://apii.flare-dapp.io)
+- [api server](https://api.flare-dapp.io)
 
 We have 2 core repositories.
 
-- [fastify-flare-server](https://github.com/FlareZone/fastify-flare-server), a core service for Flare Dapp, fork from https://github.com/Shyam-Chen/Fastify-Starter.
+- [flare_server](https://github.com/FlareZone/flare_server), 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
 - [FlareZone](https://github.com/FlareZone/FlareZone),  a Flare Dapp FrontEnd repository.
 
 Demo repositories.
 
 - [flare_app](https://github.com/FlareZone/flare_app), a warehouse for the hackathon contest, but only a Demo.
-- [flare_server](https://github.com/FlareZone/flare_server), flare dapp's backend service. but no more service.
+- [flare_server_koa](https://github.com/FlareZone/flare_server_koa), flare dapp's backend service. but no more service.
 
-Documentation is ready. [Go](https://github.com/mx-space/docs).
+Docker Images.
+
+- [nginx-proxy](https://hub.docker.com/r/jokereven/flare-proxy)
+- [flare-server](https://hub.docker.com/r/jokereven/flare-server)
+
+Other Link
+
+- [Readme.io](https://flare-dapp.readme.io)
+- [twitter](https://twitter.com/Flare_dapp)
+- [Xlog](https://flare.xlog.app/)
+
+Documentation is ready. [Go](https://github.com/FlareZone/docs).
