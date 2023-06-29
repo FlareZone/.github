@@ -22,8 +22,7 @@ Docker Images.
 
 Other Link
 
-- [Readme.io](https://flare-dapp.readme.io)
 - [twitter](https://twitter.com/Flare_dapp)
-- [Xlog](https://flare.xlog.app/)
+- [xlog](https://flare.xlog.app/)
 
 Documentation is ready. [Go](https://github.com/FlareZone/docs).
