@@ -1,9 +1,9 @@
 # Hey, this is Flare Dapp 👋
 
-Flare is dedicated to providing a platform for users to browse, share, and validate intriguing stories, rumors, and trends. Experiences enhanced by ZK and AI.
+User-curated social platform, Your voice, your power | Predict to Earn ✨
 
 - [Live Preview](https://flare-dapp.io)
-- [api server](https://api.flare-dapp.io)
+- [api server](https://api.flare-dapp.io/api/v2/ping)
 
 We have 2 core repositories.
 
@@ -23,7 +23,8 @@ Docker Images.
 
 Other Link
 
-- [twitter](https://twitter.com/Flare_dapp)
-- [xlog](https://flare.xlog.app/)
+- [twitter](https://twitter.com/flaredapp)
+- [xlog](https://flare-dapp.xlog.app)
+- [discord](https://discord.gg/9a48BTsNkC)
 
 Documentation is ready. [Go](https://github.com/FlareZone/docs).
