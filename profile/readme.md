@@ -3,7 +3,7 @@
 User-curated social platform, Your voice, your power | Predict to Earn ✨
 
 - [Live Preview](https://flare-dapp.io)
-- [api server](https://api.flare-dapp.io/api/v2/ping)
+- [api server](https://api.flare-dapp.io/api/v1/ping)
 
 We have 2 core repositories.
 
