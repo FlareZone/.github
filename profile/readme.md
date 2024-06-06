@@ -1,4 +1,4 @@
-# Hey, this is Flare Dapp 👋
+# Hey, this is Happy Melon 👋
 
 User-curated social platform, Your voice, your power | Predict to Earn ✨
 
